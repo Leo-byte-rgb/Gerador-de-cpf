@@ -1,0 +1,31 @@
+body {
+    background-color: #fff1e6;
+    text-align: center;
+   
+}
+h1 {
+    color: #cb997e;
+}
+.Button {
+    background-color: #a5a58d;
+    outline: none;
+    width: 150px;
+    height: 35px;
+    border: 0;
+    border-radius: 0.2em;
+    cursor: pointer;
+    color: #f0efeb;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.5s
+}
+.Button:hover {
+    background-color: #b7b7a4;
+    transform: translateY(-2px);
+}
+.resultado {
+    color: #cb997e;
+    font-size: 30px;
+    margin-top: 100px;
+    
+}
